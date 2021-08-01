@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ASP.NET Core and C#
+- 🌱 I’m currently learning ANDROID
+- 📫 How to reach me: [Telegram]('https://t.me/mrgladius') - [bagheri.saleh@gmail.com]('mailto:bagheri.saleh@gmail.com')
+
 <!--
 **SalehBagheri/SalehBagheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
