@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ASP.NET Core and C#
-- 🌱 I’m currently learning ANDROID
+- 🔭 I’m currently working on Umweltify! (ASP.NET Core and C#)
+- 🌱 I’m investing in Spoonbill PMS! (ASP.NET Core and C#)
 - 📫 How to reach me: [Telegram](https://t.me/mrgladius) - [bagheri.saleh@gmail.com](mailto:bagheri.saleh@gmail.com)
 
 <!--
