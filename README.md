@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the [Umweltify](https://umweltify.com)! (ASP.NET Core, WPF, TailwindCSS, and C#)
-- 🌱 I’m investing in the Spoonbill PMS! (ASP.NET Core and C#)
+- 🌱 I’m working on [Umweltify](https://umweltify.com)! (ASP.NET Core, WPF, TailwindCSS, and C#)
 - 📫 How to reach me: [Telegram](https://t.me/mrgladius) - [bagheri.saleh@gmail.com](mailto:bagheri.saleh@gmail.com)
 
 <!--
